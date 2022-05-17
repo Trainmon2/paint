@@ -1,0 +1,54 @@
+body{
+    background-color: aqua;
+} 
+.banner{
+    font-family:  Helvetica;
+    font-size: 50px;
+    color: khaki;
+    text-align: center;
+    border-image-width: 100;
+    background-image: url(../resources/images/pattern.jpeg);
+    border: top 70px; ;
+    height: 50%;
+    background-position:    center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+    
+}
+.brushes{
+    font-family:  Helvetica;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+
+    
+
+}
+h2{
+    background-color: mediumspringgreen; 
+}
+h3{
+    font-weight: bold;
+    color:black;
+}
+.Frames{
+    font-family:  Helvetica;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+}
+h4{
+    background-color: lightcoral;
+}
+figcaption{
+    font-weight: bold;
+    color:black;
+}
+h5{
+    background-color: skyblue;
+    font-weight: bold;
+    color:black;
+    font-size: 15px;
+}
